@@ -1,0 +1,26 @@
+.guid-container {
+    align-items: center;
+    /* text-align: center; */
+}
+
+
+/*  */
+
+.summery-container {
+    color: #fff;
+    margin-top: 120px;
+    background-color: rgba(31, 51, 216, 1);
+    border-bottom: 7px solid #FFD456;
+}
+
+.summery-container p {
+    font-weight: 400;
+    size: 16px;
+    line-height: 26px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.summery-container h3 {
+    font-style: bold;
+    font-size: 40px;
+}
